@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-mapache-1389.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_1389\u2-p1-act1-1389\img-original-1389\img-mapache-1389.jpg
+Formato por extension: .JPG
+Tamano en bytes: 39831
+Tamano en KB: 38.90
+Tamano en MB: 0.0380
+
+DIMENSIONES
+-----------
+Ancho: 516 pixeles
+Alto: 387 pixeles
+Resolucion: 516 x 387
+Total de pixeles: 199,692
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 124.60
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 116.21
+Verde (G): 123.81
+Rojo (R): 133.77
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
